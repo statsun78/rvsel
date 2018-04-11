@@ -1,0 +1,3 @@
+useDynLib("rvsel", .registration = TRUE)
+export(rvsel)
+importFrom("stats", "glm", "lm", "residuals", "cor")

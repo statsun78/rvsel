@@ -1,0 +1,11 @@
+Package: rvsel
+Type: Package
+Title: Rare Variant Selection Procedure
+Version: 0.2.3
+Author: Chunghui Lee and Hokeun Sun 
+Maintainer: Hokeun Sun <hsun@pusan.ac.kr>
+Depends: R (>= 3.1.0)
+Description: When a gene or a genetic region is significantly associated with a disease or a trait, the rare variant selection procedure is able to distinguish causal (risk or protective) rare variants from noncausal rare variants located within the same gene or the same genetic region.     
+License: GPL-2
+Encoding: UTF-8
+LazyData: FALSE
