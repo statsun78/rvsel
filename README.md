@@ -14,6 +14,6 @@ install_github("statsun78/rvsel")
 
 ## References
 
-* **Sun, H.** and Wang, S. (2014) A Power Set Based Statistical Selection Procedure to Locate Susceptible Rare Variants Associated with Complex Diseases with Sequencing Data, *Bioinformatics 30(16), p.2317-2323.
+* **Sun, H.** and Wang, S. (2014) A Power Set Based Statistical Selection Procedure to Locate Susceptible Rare Variants Associated with Complex Diseases with Sequencing Data, *Bioinformatics* 30(16), p.2317-2323.
 * Kim, S., Lee, K. and **Sun, H.** (2015) Statistical Selection Strategy for Risk and Protective Rare Variants Associated with Complex Traits, *Journal of Computational Biology* 22(11), p.1034-1043.
 * Lee, G. and **Sun, H.** (2017) Selection Probability for Rare Variant Association Studies, *Journal of Computational Biology* 24(5), p.400-411
