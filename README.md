@@ -9,7 +9,7 @@ Rare Variant Selection Procedure: When a gene or a genetic region is significant
 
 ```
 ## "devtools" pacakge is required if you don't have it.  
-install.packges(devtools)
+install.packges('devtools')
 
 ## For window users, you need to download and install Rtools from https://cran.r-project.org/bin/windows/Rtools
 
