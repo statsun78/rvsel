@@ -11,7 +11,7 @@ Rare Variant Selection Procedure: When a gene or a genetic region is significant
 ## "devtools" package is required if you don't have it.  
 install.packages('devtools')
 
-## For window users, you need to download and install Rtools from https://cran.r-project.org/bin/windows/Rtools
+## For Windows users, you need to download and install Rtools from https://cran.r-project.org/bin/windows/Rtools
 
 library(devtools)
 install_github("statsun78/rvsel")
