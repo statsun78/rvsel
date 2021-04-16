@@ -1,6 +1,6 @@
 rvsel_check <- function(x,y,cx,family,method,selection){
 
-  if (sum(duplicated(x, MARGIN = 2))>0)
+  if (sum(duplicated(t(x)))>0)
     stop("At least one variant is exactly the same as one of the other variants.")
 
   # x as matrix or data frame
